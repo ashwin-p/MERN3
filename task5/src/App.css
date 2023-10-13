@@ -1,0 +1,26 @@
+.AgeCalculator {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 40 %;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.calculate-button {
+  background-color: #0073e6;
+  color: white;
+  padding: 12px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  width: 10%;
+}
